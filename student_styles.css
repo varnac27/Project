@@ -1,0 +1,15 @@
+h3{
+	font-size: 40px;
+	font-style: oblique;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	padding: 100px;
+	background-color: #56776c;
+}
+input[type="submit"]{
+	font-size: 20px;
+	background-color:#9dbeb9; 
+}
+input[type="text"],[type="password"]{
+	font-size: 18px;
+}
